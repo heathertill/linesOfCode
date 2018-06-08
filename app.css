@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(219, 241, 241);
+}
+
+h1 {
+    color: rgb(108, 108, 110);
+    text-align: center;
+}
+
+.friend {
+    background-color: rgb(219, 241, 241);
+    border: 20px solid white;
+    color: rgb(108, 108, 110);
+}
+
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    border-style: solid dotted;
+    border-color: rgb(173, 173, 173);
+    padding: 30px;
+    margin: 20px;
+    background-color: azure
+}
+
